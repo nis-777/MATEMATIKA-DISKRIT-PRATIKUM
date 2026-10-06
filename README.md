@@ -3,8 +3,8 @@
 ## INFORMASI PRAKTIKUM
 
 **Praktikum:** 1  
-**Nama:** Nurul Fadillatul Arasy  
-**NIM:** 260306002  
+**Nama:** Luluk Annisa
+**NIM:** 260306011  
 **Kelas:** 1B  
 
 ## DESKRIPSI
