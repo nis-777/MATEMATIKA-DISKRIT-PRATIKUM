@@ -2,10 +2,10 @@
 
 ## INFORMASI PRAKTIKUM
 
-**Praktikum:** 1  
-**Nama:** Luluk Annisa
-**NIM:** 260306011  
-**Kelas:** 1B  
+**Praktikum: 1  
+**Nama: Luluk Annisa
+**NIM: 260306011  
+**Kelas: 1B  
 
 ## DESKRIPSI
 
