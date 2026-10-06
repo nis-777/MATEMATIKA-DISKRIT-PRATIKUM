@@ -1,10 +1,11 @@
 # MATEMATIKA-DISKRIT-PRATIKUM
 
 ## INFORMASI PRAKTIKUM
-Praktikum: 1  
-Nama: Luluk Annisa
-NIM: 260306011  
-Kelas: 1B  
+LAPRAK :
+NAMA :
+NIM :
+KELAS :
+
 
 ## DESKRIPSI
 
