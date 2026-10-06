@@ -1,0 +1,73 @@
+### TABEL KEBENARAN
+
+### 1. Praktikum
+
+| A | B | A AND B |
+|---|---|---------|
+| True | True | True |
+| True | False | False |
+| False | True | False |
+| False | False | False |
+
+### 2. Beasiswa
+
+| A | B | A AND B |
+|---|---|---------|
+| True | True | True |
+| True | False | False |
+| False | True | False |
+| False | False | False |
+
+### 3. Ujian
+
+| A | B | A AND B |
+|---|---|---------|
+| True | True | True |
+| True | False | False |
+| False | True | False |
+| False | False | False |
+
+### 4. Prioritas
+
+| A | B | A OR B |
+|---|---|--------|
+| True | True | True |
+| True | False | True |
+| False | True | True |
+| False | False | False |
+
+### 5. Program
+
+| A | B | A OR B |
+|---|---|--------|
+| True | True | True |
+| True | False | True |
+| False | True | True |
+| False | False | False |
+
+### 6. Rekomendasi
+
+| A | B | A OR B |
+|---|---|--------|
+| True | True | True |
+| True | False | True |
+| False | True | True |
+| False | False | False |
+
+### 7. Pilihan
+
+| A | B | A XOR B |
+|---|---|---------|
+| True | True | False |
+| True | False | True |
+| False | True | True |
+| False | False | False |
+
+### 8. Jalur
+
+| A | B | A XOR B |
+|---|---|---------|
+| True | True | False |
+| True | False | True |
+| False | True | True |
+| False | False | False |
