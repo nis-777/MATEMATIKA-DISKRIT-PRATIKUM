@@ -1,7 +1,10 @@
-hadir = True
-tugas = True
+aktif = True
+nilai_memenuhi = False
+prasyarat = True
 
-if hadir and tugas:
-    print("Boleh mengikuti ujian")
+lulus_ujian = aktif and nilai_memenuhi and prasyarat
+
+if lulus_ujian:
+    print("Mahasiswa LULUS ujian")
 else:
-    print("Tidak boleh mengikuti ujian")
+    print("Mahasiswa TIDAK LULUS ujian")
