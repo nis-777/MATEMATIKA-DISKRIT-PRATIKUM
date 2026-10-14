@@ -1,7 +1,9 @@
-nilai = 85
-minat = True
+aktif = False
+pengalaman = True
 
-if nilai >= 80 or minat:
-    print("Dapat mengikuti program")
+boleh_mengikuti = aktif or pengalaman
+
+if boleh_mengikuti:
+    print("Peserta BOLEH mengikuti program")
 else:
-    print("Tidak dapat mengikuti program")
+    print("Peserta TIDAK BOLEH mengikuti program")
