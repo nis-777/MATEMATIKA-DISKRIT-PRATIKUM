@@ -1,7 +1,9 @@
-online = True
-offline = False
+pengalaman = True
+sertifikat = False
 
-if online ^ offline:
-    print("Pilihan valid")
+jalur_valid = pengalaman ^ sertifikat
+
+if jalur_valid:
+    print("Pilihan ALTERNATIF VALID")
 else:
-    print("Pilihan tidak valid")
+    print("Pilihan ALTERNATIF TIDAK VALID")
