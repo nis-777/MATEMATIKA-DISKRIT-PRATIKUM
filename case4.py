@@ -1,7 +1,9 @@
-darurat = False
-penting = True
+pengalaman = False
+sertifikat = True
 
-if darurat or penting:
-    print("Masuk prioritas")
+prioritas = pengalaman or sertifikat
+
+if prioritas:
+    print("Peserta mendapat PRIORITAS")
 else:
-    print("Bukan prioritas")
+    print("Peserta tidak mendapat PRIORITAS")
