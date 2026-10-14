@@ -1,7 +1,9 @@
-reguler = True
-prestasi = False
+nilai_memenuhi = True
+prasyarat = False
 
-if reguler ^ prestasi:
-    print("Jalur dapat dipilih")
+jalur_valid = nilai_memenuhi ^ prasyarat
+
+if jalur_valid:
+    print("Jalur SELEKSI VALID")
 else:
-    print("Pilih salah satu jalur")
+    print("Jalur SELEKSI TIDAK VALID")
