@@ -1,7 +1,10 @@
-suka_python = True
-suka_web = False
+nilai_memenuhi = False
+pengalaman = False
+sertifikat = True
 
-if suka_python or suka_web:
-    print("Direkomendasikan belajar pemrograman")
+rekomendasi = nilai_memenuhi or pengalaman or sertifikat
+
+if rekomendasi:
+    print("Peserta MENDAPAT rekomendasi")
 else:
-    print("Cari bidang lain")
+    print("Peserta TIDAK MENDAPAT rekomendasi")
