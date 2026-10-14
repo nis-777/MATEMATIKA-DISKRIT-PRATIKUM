@@ -1,7 +1,10 @@
-nilai = 80
-hadir = True
+aktif = True
+nilai_memenuhi = True
+prasyarat = True
 
-if nilai >= 75 and hadir:
-    print("Lulus praktikum")
+lulus = aktif and nilai_memenuhi and prasyarat
+
+if lulus:
+    print("Peserta LULUS seleksi")
 else:
-    print("Tidak lulus praktikum")
+    print("Peserta TIDAK LULUS seleksi")
